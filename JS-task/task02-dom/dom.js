@@ -15,5 +15,5 @@ function changeOuterLinks() {
     });
 }
 
-
+changeOuterLinks()
 export { changeOuterLinks };
